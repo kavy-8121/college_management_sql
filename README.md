@@ -26,7 +26,7 @@ This project demonstrates practical SQL skills in database design, data manipula
 - Set Operations: `UNION` and `UNION ALL`.
 - Views and Indexes:Creating, querying, and managing views and indexes.
 - Transactions: `START TRANSACTION`, `SAVEPOINT`, `ROLLBACK`, and `COMMIT`.
-- Filtering: `WHERE`, `LIKE`, `BETWEEN`, `IN`, and `LIMIT`.
+- Filtering: `WHERE`, `LIKE`, `BETWEEN`, `IN`.
 
 ## Technologies Used
 
